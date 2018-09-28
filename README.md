@@ -15,7 +15,7 @@ In this assigment, the user will describe five key concepts learned from lesson 
 The user is also responsible for backing up the designated files to GitHub.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about Vision Control Systems that allow teams to work on a project more efficiently.
+2. I learned about the difference between Centralized and Distributed VCS, one relies on a server while the other relies on a server and every client at hand.
+3. GitHub opened in 2007 and has since undergone multiple itterations that seek to improve and help users in their use of Git, which is a VCS.
 
